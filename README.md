@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @burhanudinera2018
-- 👀 I’m interested in Machine Learning and python language
-- 🌱 I’m currently learning Python and machine learning
-- 💞️ I’m looking to on many projects reference to increase understanding and experience in building machine lerning
-- 📫 How to reach me , you can contact me to my email : burhanudinera2028@gmail.com
+### Halo, saya Burhanudin 👋
 
-<!---
-burhanudinera2018/burhanudinera2018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Scientist & AI Engineer dengan 15+ tahun pengalaman enterprise B2B di Indosat Group
+(perbankan, energi, manufaktur). Saya membangun solusi data end-to-end: dari analisis spasial
+dan machine learning, hingga aplikasi LLM dan deployment model di Google Cloud.
+
+**Fokus:** Spatial Analytics (GWR, Kriging) · LLM & RAG · MLOps (Docker, Vertex AI) · Microservices
+
+🌐 Portofolio: https://burhanudinera2018.github.io/portfolio/
+💼 LinkedIn: https://www.linkedin.com/in/burhanudin-badiuzaman-4a9204161/
+📫 Email: burhanudinera2018@gmail.com
